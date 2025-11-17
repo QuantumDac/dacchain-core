@@ -1,1 +1,0 @@
-# Quantum-Resistant Consensus

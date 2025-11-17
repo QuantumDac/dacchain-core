@@ -1,1 +1,0 @@
-# Fixed USD Gas Model
