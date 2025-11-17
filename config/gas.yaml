@@ -1,0 +1,11 @@
+# config/gas.yaml
+mode: manual        # options: manual | oracle
+gas:
+  normal_usd: 0.03
+  bridge_usd: 0.05
+dac:
+  # in manual mode set price here; in oracle mode this will be ignored
+  price_usd: 0.01   # example: DAC price = $0.01
+oracle:
+  provider: ""      # e.g. "coinmarketcap" or "dex" (filled later)
+  api_key: ""
