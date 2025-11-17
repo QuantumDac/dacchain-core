@@ -1,2 +1,3 @@
-#!/usr/bin/env bash
-go run ./internal/gas/example_usage.go
+#!/bin/bash
+echo "Running Web4 Gas Fee Demo..."
+go run cmd/gas-demo/main.go
